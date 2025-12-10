@@ -1,28 +1,30 @@
-[
-  {
-    "FirstName": "太郎",
-    "LastName": "テラスカイ",
-    "BirthDate": 19900101,
-    "Gender": 1,
-    "Address": {
-      "State": "東京都",
-      "City": "中央区",
-      "Street": "日本橋　2-11-2 太陽生命日本橋ビル　15階"
+{
+  "account":[
+    {
+      "FirstName": "太郎",
+      "LastName": "テラスカイ",
+      "BirthDate": 19900101,
+      "Gender": 1,
+      "Address": {
+        "State": "東京都",
+        "City": "中央区",
+        "Street": "日本橋　2-11-2 太陽生命日本橋ビル　15階"
+      },
+      "isDeleted": false,
+      "id": "AC001"
     },
-    "isDeleted": false,
-    "id": "AC001"
-  },
-  {
-    "FirstName": "花子",
-    "LastName": "テラスカイ",
-    "BirthDate": 19900201,
-    "Gender": 2,
-    "Address": {
-      "State": "東京都",
-      "City": "中央区",
-      "Street": "日本橋　2-11-2 太陽生命日本橋ビル　16階"
-    },
-    "isDeleted": false,
-    "id": "AC002"
-  }
-]
+    {
+      "FirstName": "花子",
+      "LastName": "テラスカイ",
+      "BirthDate": 19900201,
+      "Gender": 2,
+      "Address": {
+        "State": "東京都",
+        "City": "中央区",
+        "Street": "日本橋　2-11-2 太陽生命日本橋ビル　16階"
+      },
+      "isDeleted": false,
+      "id": "AC002"
+    }
+  ]
+}
